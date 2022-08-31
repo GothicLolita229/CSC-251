@@ -1,0 +1,10 @@
+Hello Cecilia, this is your itemized bill:
+---------------------------------------------- 
+Credit Hour Charge for 16.0Credit Hours: 1216.0 
+Credit Hour Rate: $76.00 
+ACTFE Activity Fee: $35.00 
+CAPSF Required Fee for Campus Access: $15.00
+TECFE Technology Fee: $16.00 
+============================================== 
+Your Total Bill: $0 
+
